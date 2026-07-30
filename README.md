@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Presentation
 
 Hello, I'm Enzo Demeulenaere, a 24 years old french guy who's interested in lots of things that usually turn into cool projects you can find here !
