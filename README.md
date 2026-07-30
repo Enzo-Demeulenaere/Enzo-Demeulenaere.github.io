@@ -18,4 +18,4 @@ Since March 2026, I'm a part-time math and computer science private tutor for st
 
 # Contact
 
-You can contact me at demeulenaere.enzo@gmail.com
+You can contact me at demeulenaere.enzo[at]gmail.com
