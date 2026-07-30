@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Enzo Demeulenaere
-description: Welcome to my website where I showcase all my projects ! 
 ---
 
 # Presentation
