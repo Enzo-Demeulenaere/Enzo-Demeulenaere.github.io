@@ -18,7 +18,7 @@ Since March 2026, I'm a part-time math and computer science private tutor for st
 
 # Interests 
 
-I'm interested in lots of things and I love to keep track on everything that's happening but my true passion is towards games in all of their forms: video games, board games, TTRPGs...
+I'm interested in lots of things and I love to keep track on everything that's happening but my true passion is towards games in all of their forms: video games, board games, TTRPGs, TCGs...
 
 What truly thrives me is to try to understand how something works and how they are designed, I could literally read a rulebook for hours without ever playing the game afterwards.
 
