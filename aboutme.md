@@ -4,7 +4,7 @@ title: About me
 subtitle: Here's all you need to know about who I am
 ---
 
-My name is Enzo and I'm a 24 years old guy based in France. I am actually looking for opportunities as a Game or XR developper so feel free to contact me if you find my portfolio interesting. 
+My name is Enzo and I'm a 24 years old guy based in France. I am currently looking for opportunities as a Game or XR developper so feel free to contact me if you find my portfolio interesting. 
 
 # Education 
 
