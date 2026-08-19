@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Enzo Demeulenaere's Homepage
+title: Home
 
 # Your name to show in the footer
 author: Enzo Demeulenaere
@@ -21,10 +21,9 @@ author: Enzo Demeulenaere
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Portfolio:
+    - Inria Apprentice : "inria"
+    - Game Dev: "gamedev"
 
 ################
 # --- Logo --- #
@@ -50,16 +49,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "demeulenaere.enzo[at]gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: Enzo-Demeulenaere
-  linkedin: Enzo Demeulenaere
+  linkedin: www.linkedin.com/in/enzo-demeulenaere-901380254
   itchio: MPilou
 
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -70,10 +67,10 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+# title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
