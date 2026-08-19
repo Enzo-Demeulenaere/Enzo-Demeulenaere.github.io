@@ -26,4 +26,4 @@ Also a cat lover but who isn't anyway ?
 
 # Contact
 
-You can contact me at "demeulenaere.enzo[at]gmail.com" of via [linkedin](www.linkedin.com/in/enzo-demeulenaere-901380254)
+You can contact me at "demeulenaere.enzo[at]gmail.com" or via [linkedin](www.linkedin.com/in/enzo-demeulenaere-901380254)
