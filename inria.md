@@ -14,7 +14,11 @@ Evref is responsible for developping and maintaining [Pharo](https://pharo.org/)
 
 *All the following projects were made using Bloc for Pharo*
 
+
+
 # Projects 
+
+
 
 ## Myg 
 
@@ -24,13 +28,17 @@ Evref is responsible for developping and maintaining [Pharo](https://pharo.org/)
 <img src="{{ 'assets/img/myg.png' | relative_url }}" alt="Myg" />
 </p>
 
+
+
 ## Labyrinth 
 
-[Labyrinth](https://github.com/Enzo-Demeulenaere/Labyrinth) is an implementation of the Labyrinth board game for Pharo for 2 to 4 local players. THis project was made in 3 weeks in order to be presented at [ESUG](https://esug.org/) 2024, you can find the video of my presentation [here](https://www.youtube.com/watch?v=X5ifOzHkASw&list=PLJ5nSnWzQXi89jwnBCmGPh9xG6shuvuwb&index=10)
+[Labyrinth](https://github.com/Enzo-Demeulenaere/Labyrinth) is an implementation of the Labyrinth board game for Pharo for 2 to 4 local players. This project was made in 3 weeks in order to be presented at [ESUG](https://esug.org/) 2024, you can find the video of my presentation [here](https://www.youtube.com/watch?v=X5ifOzHkASw&list=PLJ5nSnWzQXi89jwnBCmGPh9xG6shuvuwb&index=10)
 
 <p>
 <img src="{{ 'assets/img/labyrinth.png' | relative_url }}" alt="labyrinth" />
 </p>
+
+
 
 ## Bloc Demo Browser
 
