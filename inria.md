@@ -90,7 +90,7 @@ We then started to experiment the available implementation of Drag and Drop to u
   
 ### Letters Sorter
 
-The Letters Sorter is an example mixing all we learned and implemented for the Drag and Drop, this simply shows how an element can react depending on where we are dragging and/or dropping it. This example was linked to a written tutorial in the documentation on how understand the implementation and recreate such an example.
+The Letters Sorter is an example mixing all we learned and implemented for the Drag and Drop, this simply shows how an element can react depending on where we are dragging and/or dropping it. This example was linked to a written tutorial in the documentation on how to understand the implementation and recreate such an example.
 
 <p>
 <img src="{{ 'assets/img/letterssorter.png' | relative_url }}" alt="letterssorter" />
@@ -98,7 +98,7 @@ The Letters Sorter is an example mixing all we learned and implemented for the D
 
 ## Toplo 
 
-Toplo is another graphical framework that works on top of the Bloc layer that provides widgets and tools to create your own widgets. For Toplo, my work was to create some widgets such as the "Tree" or the "Collapse" widgets below, but I also brought implementations for parts of widgets like new sliders of different kinds privoding multiple options.
+Toplo is another graphical framework that works on top of the Bloc layer that provides widgets and tools to create your own widgets. For Toplo, my work was to create some widgets such as the "Tree" or the "Collapse" widgets below, but I also brought implementations for parts of widgets like new sliders of different kinds providing multiple options.
 
 
 <p>
