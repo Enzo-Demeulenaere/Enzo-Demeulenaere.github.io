@@ -47,3 +47,61 @@ The Demo Browser is a tool integrated to Bloc that searches snippets of executab
 <p>
 <img src="{{ 'assets/img/demobrowser.png' | relative_url }}" alt="demobrowser" />
 </p>
+
+## Color Picker 
+
+The Color Picker is another tool integrated to Bloc that works as a basic Color Picker where you can toy with the Color Map, Hue and Alpha sliders in order to have the right Color for you to copy-paste into your code with the right RGB and/or HEX values
+
+<p>
+<img src="{{ 'assets/img/colorpicker.png' | relative_url }}" alt="colorpicker" />
+</p>
+
+## CoypuIDE 
+
+I had the opportunity to work with [lucretio](https://linktr.ee/lucretiomsp) a DJ who wanted to experiment new things for his shows by connecting visuals to his actions so that spectators may experience differently the performance. We worked in collaboration in order to bring [CoypuIDE](https://github.com/pharo-graphics/CoypuIDE), a framework that provides visual tools to help him during his performances. I implemented new knobs, sliders and other visuals for him to work with.
+
+<p>
+<img src="{{ 'assets/img/coypu.png' | relative_url }}" alt="coypu" />
+</p>
+
+## Drag and Drop 
+
+This sections shows various projects that allowed us to experiment with Drag and Drop implementation in Bloc 
+
+### Flaps 
+
+The flaps were the first steps towards a new Drag and Drop implementation. A "flap" is a widget that acts like a drawer ; you could store components of your environment by dragging them inside, then close the flap so it stays in a corner of your environment and then open it later to drag components back into your environment. Trying to create such a widget highlighted the need for a new Drag and Drop implementation.
+
+<p>
+<img src="{{ 'assets/img/flaps.png' | relative_url }}" alt="flaps" />
+</p>
+
+### Experimentations
+
+We then started to experiment the available implementation of Drag and Drop to understand it and then build a new one with the pros and without the cons. The following picture shows different results of snippets we built *(from top to bottom, left to right )*:
+- Select multiple elements by creating a "lasso" selection tool
+- Sort elements in a list when dragging them in the right place
+- Make an element react whenever another is dragged above
+- A sorting game mixing newly found knowledge on drag and drop, animations and layouts
+
+<p>
+<img src="{{ 'assets/img/experimentations.png' | relative_url }}" alt="experimentations" />
+</p>
+  
+### Letters Sorter
+
+The Letters Sorter is an example mixing all we learned and implemented for the Drag and Drop, this simply shows how an element can react depending on where we are dragging and/or dropping it. This example was linked to a written tutorial in the documentation on how understand the implementation and recreate such an example.
+
+<p>
+<img src="{{ 'assets/img/letterssorter.png' | relative_url }}" alt="letterssorter" />
+</p>
+
+## Toplo 
+
+Toplo is another graphical framework that works on top of the Bloc layer that provides widgets and tools to create your own widgets. For Toplo, my work was to create some widgets such as the "Tree" or the "Collapse" widgets below, but I also brought implementations for parts of widgets like new sliders of different kinds privoding multiple options.
+
+
+<p>
+<img src="{{ 'assets/img/widgets.png' | relative_url }}" alt="widgets" />
+<img src="{{ 'assets/img/sliders.png' | relative_url }}" alt="sliders" />
+</p>
