@@ -12,7 +12,7 @@ During my master degree, I had the opportunity to develop a virtual Museum using
 
 <p>
 <video controls width="250">
-  <source src="/assets/videos/museum.mp4" type="video/mp4" />
+  <source src="/assets/img/museum.mp4" type="video/mp4" />
 </p>
 
 # Small 2D games
