@@ -11,7 +11,7 @@ I'm passionate about games in all of their forms : Video Games, Board Games, TTR
 During my master degree, I had the opportunity to develop a virtual Museum using Godot where I implemented basic movement, selection and objects manipulation in virtual reality. You can find a presentation video here
 
 <p>
-<video controls width="250">
+<video>
   <source src="/assets/img/museum.mp4" type="video/mp4" />
 </p>
 
