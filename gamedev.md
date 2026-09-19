@@ -15,6 +15,12 @@ During my master degree, I had the opportunity to develop a virtual Museum using
   <source src="/assets/img/museum.mp4" type="video/mp4" />
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
+
 # Small 2D games
 
 This sections shows small 2D games that I made in Godot because is you want to make great games you have to start by doing lots of small games. You can find these games on my [itch.io](https://mpilou.itch.io/) page
